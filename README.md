@@ -1,4 +1,4 @@
-# shopslistingapp
+# ShopsListing
 
 A new Flutter application.
 
