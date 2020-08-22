@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "160125503656",
+    "firebase_url": "https://shopslisting-a5779.firebaseio.com",
+    "project_id": "shopslisting-a5779",
+    "storage_bucket": "shopslisting-a5779.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160125503656:android:f97d6fb9fc16ca9d739a9d",
+        "android_client_info": {
+          "package_name": "com.example.shoplistingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160125503656-5iamsb4o8fkgactss2t9ro7b8vut7a3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ8WAUe8-Fes6UkncDxy82HpgjqUU4-RE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160125503656-5iamsb4o8fkgactss2t9ro7b8vut7a3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
